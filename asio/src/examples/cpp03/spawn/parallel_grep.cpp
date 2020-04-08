@@ -13,7 +13,7 @@
 #include <asio/spawn.hpp>
 #include <asio/strand.hpp>
 #include <asio/thread_pool.hpp>
-#include <boost/bind.hpp>
+#include <boost/bind/bind.hpp>
 #include <fstream>
 #include <iostream>
 #include <string>
